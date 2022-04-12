@@ -1,0 +1,19 @@
+server:
+  port: 8086
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: pass
+    driverClassName: org.h2.Driver
+  jpa:
+    defer-datasource-initialization: true
+  h2:
+    console.enabled: true
+
+nba:
+  statsUrl: https://free-nba.p.rapidapi.com/stats
+  timeouts:
+    connection: 1000
+    read: 2000

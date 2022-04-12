@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "game": {
+        "id": 474577,
+        "home_team_id": 2,
+        "home_team_score": 144,
+        "period": 4,
+        "postseason": false,
+        "season": 2021,
+        "status": "Final",
+        "time": "",
+        "visitor_team_id": 30,
+        "visitor_team_score": 102
+      },
+      "player": {
+        "id": 81,
+        "first_name": "Kentavious",
+        "height_feet": 6,
+        "height_inches": 5,
+        "last_name": "Caldwell-Pope",
+        "position": "G",
+        "team_id": 30,
+        "weight_pounds": 205
+      },
+      "pts": 17,
+      "team": {
+        "id": 30,
+        "abbreviation": "WAS",
+        "city": "Washington",
+        "conference": "East",
+        "division": "Southeast",
+        "full_name": "Washington Wizards",
+        "name": "Wizards"
+      }
+    },
+    {
+      "id": 11448288,
+      "game": {
+        "id": 474577,
+        "home_team_id": 2,
+        "home_team_score": 144,
+        "period": 4,
+        "postseason": false,
+        "season": 2021,
+        "status": "Final",
+        "visitor_team_id": 30,
+        "visitor_team_score": 102
+      },
+      "player": {
+        "id": 666609,
+        "first_name": "Rui",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Hachimura",
+        "position": "F",
+        "team_id": 30,
+        "weight_pounds": null
+      },
+      "pts": 7,
+      "team": {
+        "id": 2,
+        "abbreviation": "WAS",
+        "city": "Washington",
+        "conference": "East",
+        "division": "Southeast",
+        "full_name": "Washington Wizards",
+        "name": "Away"
+      }
+    },
+    {
+      "id": 11448289,
+      "game": {
+        "id": 474577,
+        "home_team_id": 2,
+        "home_team_score": 144,
+        "period": 4,
+        "postseason": false,
+        "season": 2021,
+        "status": "Final",
+        "time": "",
+        "visitor_team_id": 30,
+        "visitor_team_score": 102
+      },
+      "player": {
+        "id": 378,
+        "first_name": "Kristaps",
+        "height_feet": 7,
+        "height_inches": 3,
+        "last_name": "Porzingis",
+        "position": "F-C",
+        "team_id": 30,
+        "weight_pounds": 240
+      },
+      "pts": 17,
+      "team": {
+        "id": 30,
+        "abbreviation": "WAS",
+        "city": "Washington",
+        "conference": "East",
+        "division": "Southeast",
+        "full_name": "Washington Wizards",
+        "name": "Wizards"
+      }
+    },
+    {
+      "id": 11448290,
+      "game": {
+        "id": 474577,
+        "home_team_id": 2,
+        "home_team_score": 144,
+        "period": 4,
+        "postseason": false,
+        "season": 2021,
+        "status": "Final",
+        "time": "",
+        "visitor_team_id": 30,
+        "visitor_team_score": 102
+      },
+      "player": {
+        "id": 17896045,
+        "first_name": "Corey",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Kispert",
+        "position": "F",
+        "team_id": 30,
+        "weight_pounds": null
+      },
+      "pts": 7,
+      "team": {
+        "id": 30,
+        "abbreviation": "WAS",
+        "city": "Washington",
+        "conference": "East",
+        "division": "Southeast",
+        "full_name": "Washington Wizards",
+        "name": "Wizards"
+      }
+    },
+    {
+      "id": 11448291,
+      "game": {
+        "id": 474577,
+        "home_team_id": 2,
+        "home_team_score": 144,
+        "period": 4,
+        "postseason": false,
+        "season": 2021,
+        "status": "Final",
+        "time": "",
+        "visitor_team_id": 30,
+        "visitor_team_score": 102
+      },
+      "player": {
+        "id": 408,
+        "first_name": "Tomas",
+        "height_feet": 6,
+        "height_inches": 7,
+        "last_name": "Satoransky",
+        "position": "G-F",
+        "team_id": 30,
+        "weight_pounds": 210
+      },
+      "pts": 7,
+      "team": {
+        "id": 30,
+        "abbreviation": "WAS",
+        "city": "Washington",
+        "conference": "East",
+        "division": "Southeast",
+        "full_name": "Washington Wizards",
+        "name": "Wizards"
+      }
+    }]
+}
